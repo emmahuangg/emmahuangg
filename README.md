@@ -4,5 +4,5 @@ I'm a Software Engineering student at the University of Waterloo who's passionat
 
 - 🔭 I’m currently working on NodeJS
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emma-huangg/), (emmahuang.ty@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emma-huangg/), emmahuang.ty@gmail.com
 - 😄 Pronouns: she/her
